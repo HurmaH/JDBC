@@ -83,8 +83,5 @@ public class DBUtility {
 		}
 	}
 	
-	enum DBType{ //constants listed
-		ORACLE, MYSQL, MARIAADB
-	}
 
 }
