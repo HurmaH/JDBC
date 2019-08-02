@@ -1,4 +1,4 @@
-package Maven.JDBC;
+package Tests;
 
 import java.sql.Connection;
 import java.sql.DatabaseMetaData;

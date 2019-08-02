@@ -1,4 +1,4 @@
-package Maven.JDBC;
+package Utils;
 
 import java.io.FileInputStream;
 import java.io.IOException;
